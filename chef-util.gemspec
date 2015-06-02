@@ -5,7 +5,7 @@ require 'chef/aws/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "chef-util"
-  spec.version       = Chef::Util::VERSION
+  spec.version       = Chef::AWS::VERSION
   spec.authors       = ["Inetsys"]
   spec.email         = ["sistemas@inetsys.es"]
   spec.summary       = "Utils for Chef and AWS"
