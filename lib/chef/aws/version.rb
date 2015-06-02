@@ -1,5 +1,5 @@
 module Chef
-  module AWS
+  class AWS
     VERSION = "0.0.1"
   end
 end
