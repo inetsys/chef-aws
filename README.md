@@ -1,4 +1,4 @@
-# Chef::Util
+# Chef::AWS
 
 Utils for Chef and AWS
 
@@ -7,7 +7,7 @@ Utils for Chef and AWS
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'chef-util'
+gem 'chef-aws'
 ```
 
 And then execute:
@@ -16,7 +16,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install chef-util
+    $ gem install chef-aws
 
 ## Usage
 
@@ -24,7 +24,7 @@ create_db_instance
 
 ## Contributing
 
-1. Fork it ( https://github.com/inetsyssl/chef-util/fork )
+1. Fork it ( https://github.com/inetsyssl/chef-aws/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
